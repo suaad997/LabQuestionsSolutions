@@ -1,0 +1,7 @@
+1-Answer:
+We will be using two rings, an inner ring and an outer ring.  In the outer loop, we select the elements one by one
+ and count the number of times the chosen element will repeat in the inner loop.  We will not use this method other
+ useful data provided in questions such as the number range between 1 and n and there are only two repeat items.
+
+2-Answer:
+We will use a nested loop and will check each element if the element is present in the array more than once or not.
